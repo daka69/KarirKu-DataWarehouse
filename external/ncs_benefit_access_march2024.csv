@@ -1,0 +1,13 @@
+benefit,civilian_access_pct,private_access_pct,gov_access_pct,reference_period,release,source_table,source_url,notes
+retirement,75.0,72,92,March 2024,"USDL-24-1921 (Sep 19, 2024)",Table 1,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,defined benefit + defined contribution plans
+medical_care,75.0,72,89,March 2024,"USDL-24-1921 (Sep 19, 2024)",Table 2,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,
+dental,,43,60,March 2024,"USDL-24-1921 (Sep 19, 2024)",release highlights,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,civilian rate not in highlights; see full Excel publication
+vision,,28,39,March 2024,"USDL-24-1921 (Sep 19, 2024)",release highlights,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,civilian rate not in highlights; see full Excel publication
+life_insurance,62.0,58,83,March 2024,"USDL-24-1921 (Sep 19, 2024)",Table 5,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,
+paid_sick_leave,81.0,79,92,March 2024,"USDL-24-1921 (Sep 19, 2024)",Table 6,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,
+paid_vacation,77.0,80,60,March 2024,"USDL-24-1921 (Sep 19, 2024)",Table 6,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,
+paid_holidays,79.0,81,68,March 2024,"USDL-24-1921 (Sep 19, 2024)",Table 6,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,
+paid_personal_leave,,49,62,March 2024,"USDL-24-1921 (Sep 19, 2024)",release highlights,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,civilian rate not in highlights; see full Excel publication
+short_term_disability,45,,,2024-03,USDL-24-1921,Table 5,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,
+long_term_disability,,,,2024-03,USDL-24-1921,Table 5,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,
+paid_family_leave,,,,2024-03,USDL-24-1921,Table 6,https://www.bls.gov/news.release/archives/ebs2_09192024.htm,

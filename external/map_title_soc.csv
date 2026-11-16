@@ -1,0 +1,201 @@
+title,postings_count,soc_code,soc_title,confidence,notes
+Sales Manager,673,11-2022,Sales Managers,high,exact title match (singularized)
+Customer Service Representative,373,43-4051,Customer Service Representatives,high,exact title match (singularized)
+Project Manager,354,13-1082,Project Management Specialists,high,
+Administrative Assistant,254,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",high,
+Senior Accountant,238,13-2011,Accountants and Auditors,high,
+Executive Assistant,228,43-6011,Executive Secretaries and Executive Administrative Assistants,high,
+Salesperson,211,41-2031,Retail Salespersons,medium,generic salesperson; retail most common
+Registered Nurse,210,29-1141,Registered Nurses,high,
+Receptionist,204,43-4171,Receptionists and Information Clerks,high,
+Staff Accountant,200,13-2011,Accountants and Auditors,high,
+Account Executive,195,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",medium,client-facing sales role
+Retail Sales Associate,190,41-2031,Retail Salespersons,high,
+Sales Associate,189,41-2031,Retail Salespersons,high,
+Software Engineer,181,15-1252,Software Developers,high,
+Controller,175,11-3031,Financial Managers,high,controllers classified as financial managers
+Account Manager,171,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",medium,client account sales/management
+Store Manager,166,41-1011,First-Line Supervisors of Retail Sales Workers,medium,retail store leadership
+Senior Software Engineer,162,15-1252,Software Developers,high,
+ASSISTANT STORE MANAGER,161,41-1011,First-Line Supervisors of Retail Sales Workers,medium,
+Assistant Manager,161,,,low,too generic; not mapped
+Assistant Store Manager,155,41-1011,First-Line Supervisors of Retail Sales Workers,medium,
+Maintenance Technician,155,49-9071,"Maintenance and Repair Workers, General",high,
+Business Development Manager,154,11-2022,Sales Managers,medium,sales-oriented management
+Business Analyst,146,13-1111,Management Analysts,high,
+Data Analyst,137,15-1299,"Computer Occupations, All Other",medium,no exact SOC for data analyst; computer occupations n.e.c.
+General Manager,135,11-1021,General and Operations Managers,high,
+Outside Sales Representative,133,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",medium,
+Registered Nurse - RN - LTAC,130,29-1141,Registered Nurses,high,
+Accountant,130,13-2011,Accountants and Auditors,high,
+Sales Executive,127,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",medium,
+Accounting Manager,126,11-3031,Financial Managers,high,
+Service Technician,123,49-9099,"Installation, Maintenance, and Repair Workers, All Other",medium,
+Sales Representative,123,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",medium,
+Electrical Engineer,122,17-2071,Electrical Engineers,high,exact title match (singularized)
+Sales Specialist,119,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",medium,
+OPERATIONS ASSISTANT MANAGER,114,11-1021,General and Operations Managers,medium,
+Medical Assistant,114,31-9092,Medical Assistants,high,exact title match (singularized)
+Financial Analyst,113,13-2051,Financial and Investment Analysts,high,
+Package Handler - Part Time (Warehouse like),112,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",high,
+Patient Care Technician,110,31-1131,Nursing Assistants,medium,patient care aide role
+Physical Therapist,109,29-1123,Physical Therapists,high,exact title match (singularized)
+Associate Attorney,109,23-1011,Lawyers,high,
+Operations Manager,109,11-1021,General and Operations Managers,high,
+CUSTOMER SERVICE REPRESENTATIVE,107,43-4051,Customer Service Representatives,high,exact title match (singularized)
+Inside Sales Representative,104,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",medium,
+Warehouse Associate,103,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",medium,
+Project Engineer,102,17-2199,"Engineers, All Other",medium,discipline unspecified
+Nurse Practitioner,97,29-1171,Nurse Practitioners,high,exact title match (singularized)
+Manufacturing Engineer,97,17-2112,Industrial Engineers,high,
+Program Manager,95,13-1082,Project Management Specialists,medium,
+Phlebotomist,95,31-9097,Phlebotomists,high,exact title match (singularized)
+Senior Project Manager,94,13-1082,Project Management Specialists,medium,
+Licensed Therapist for Online Counseling,94,21-1018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",medium,licensed counselor; exact modality unclear
+Quality Engineer,92,17-2112,Industrial Engineers,medium,
+Financial Advisor,91,13-2052,Personal Financial Advisors,high,
+Data Engineer,90,15-1243,Database Architects,medium,pipeline/database-focused engineering
+Human Resources Generalist,88,13-1071,Human Resources Specialists,high,
+Mechanical Engineer,87,17-2141,Mechanical Engineers,high,exact title match (singularized)
+Seasonal Sales Associate,87,41-2031,Retail Salespersons,high,
+Mortgage Loan Officer,86,13-2072,Loan Officers,high,
+Business Development Representative,84,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",medium,
+Team Member,83,,,low,too generic; not mapped
+Accounts Payable Specialist,83,43-3031,"Bookkeeping, Accounting, and Auditing Clerks",high,
+Construction Project Manager,81,11-9021,Construction Managers,high,
+Sales Development Representative,79,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",medium,
+Human Resources Manager,78,11-3121,Human Resources Managers,high,exact title match (singularized)
+Material Handler,76,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",high,
+Tax Manager,76,11-3031,Financial Managers,high,
+Certified Nursing Assistant (CNA),75,31-1131,Nursing Assistants,high,
+Cook,74,35-2014,"Cooks, Restaurant",high,
+Network Engineer,74,15-1241,Computer Network Architects,high,
+Global Account Manager,73,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",low,global/key account sales; ambiguous
+Board Certified Behavior Analyst (BCBA),72,19-3039,"Psychologists, All Other",low,BCBA classification uncertain in SOC
+Paralegal,71,23-2011,Paralegals and Legal Assistants,high,
+Field Service Technician,71,49-9099,"Installation, Maintenance, and Repair Workers, All Other",medium,
+Product Manager,71,11-9199,"Managers, All Other",medium,cross-functional management role
+Office Manager,70,11-3012,Administrative Services Managers,high,
+Production Supervisor,70,51-1011,First-Line Supervisors of Production and Operating Workers,high,
+Store Driver,70,53-3033,Light Truck Drivers,medium,
+Process Engineer,69,17-2112,Industrial Engineers,high,
+Restaurant Manager,69,11-9051,Food Service Managers,high,
+Marketing Manager,69,11-2021,Marketing Managers,high,exact title match (singularized)
+US Experienced Financial Advisor,69,13-2052,Personal Financial Advisors,high,
+Delivery Driver,68,53-3033,Light Truck Drivers,high,
+Housekeeper,68,37-2012,Maids and Housekeeping Cleaners,high,
+Senior Financial Analyst,68,13-2051,Financial and Investment Analysts,high,
+Dental Assistant,65,31-9091,Dental Assistants,high,exact title match (singularized)
+Sales Associate Sunglass Hut,64,41-2031,Retail Salespersons,high,retail specialty store
+Registered Nurse (RN),63,29-1141,Registered Nurses,high,
+"Store Assistant, Full Time",62,41-2031,Retail Salespersons,medium,retail support role
+Licensed Practical Nurse (LPN),61,29-2061,Licensed Practical and Licensed Vocational Nurses,high,
+Software Developer,60,15-1252,Software Developers,high,exact title match (singularized)
+Auto Glass Installation Technician Trainee,59,49-3022,Automotive Glass Installers and Repairers,high,
+Supervisor/Manager Part-Time,59,,,low,too generic; not mapped
+Front End Entry Level,59,,,low,too vague; not mapped
+Construction Superintendent,59,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,high,
+Regional Sales Manager,59,11-2022,Sales Managers,high,
+Maintenance Supervisor,58,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",high,
+Automotive Technician,58,49-3023,Automotive Service Technicians and Mechanics,high,
+CT Technologist,58,29-2034,Radiologic Technologists and Technicians,high,
+Retail Sales and Store Support,58,41-2031,Retail Salespersons,medium,
+Delivery Specialist,58,53-3033,Light Truck Drivers,medium,
+Full Stack Engineer,57,15-1252,Software Developers,high,
+DevOps Engineer,57,15-1252,Software Developers,medium,could also be 15-1244; software-focused
+Data Scientist,56,15-2051,Data Scientists,high,exact title match (singularized)
+Maintenance Manager,56,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",high,
+Assistant Controller,56,11-3031,Financial Managers,high,
+Frontend Developer,55,15-1254,Web Developers,high,
+MERCHANDISE ASSISTANT MANAGER,55,41-1011,First-Line Supervisors of Retail Sales Workers,medium,
+Territory Sales Manager,55,11-2022,Sales Managers,high,
+Customer Success Manager,54,11-9199,"Managers, All Other",medium,post-sales account management
+Sales Consultant,53,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",medium,
+TEACHER-SPECIAL EDUCATION,53,25-2059,"Special Education Teachers, All Other",high,
+Licensed Practical Nurse,53,29-2061,Licensed Practical and Licensed Vocational Nurses,high,
+Cashier,53,41-2011,Cashiers,high,exact title match (singularized)
+Physician Assistant,52,29-1071,Physician Assistants,high,exact title match (singularized)
+Line Cook,52,35-2014,"Cooks, Restaurant",high,
+Bookkeeper,52,43-3031,"Bookkeeping, Accounting, and Auditing Clerks",high,
+Back End Developer,52,15-1252,Software Developers,high,
+Recruiter,51,13-1071,Human Resources Specialists,high,
+Test Development Project Manager,51,13-1082,Project Management Specialists,medium,
+Marketing Coordinator,51,13-1161,Market Research Analysts and Marketing Specialists,high,
+Graphic Designer,51,27-1024,Graphic Designers,high,exact title match (singularized)
+Payroll Specialist,48,43-3051,Payroll and Timekeeping Clerks,high,
+Technical Writer,48,27-3042,Technical Writers,high,exact title match (singularized)
+Construction Manager,48,11-9021,Construction Managers,high,exact title match (singularized)
+Attorney,48,23-1011,Lawyers,high,
+Chief Financial Officer,48,11-1011,Chief Executives,high,
+Speech Language Pathologist,47,29-1127,Speech-Language Pathologists,high,
+Merchandiser,47,27-1026,Merchandise Displayers and Window Trimmers,high,
+Dishwasher,47,35-9021,Dishwashers,high,exact title match (singularized)
+Human Resources Business Partner,46,13-1071,Human Resources Specialists,high,
+Technical Support Specialist,46,15-1232,Computer User Support Specialists,high,
+Finance Manager,45,11-3031,Financial Managers,high,
+Occupational Therapist,44,29-1122,Occupational Therapists,high,exact title match (singularized)
+Part-Time Sales Associate - Famous Footwear,44,41-2031,Retail Salespersons,high,
+Legal Assistant,44,23-2011,Paralegals and Legal Assistants,high,
+HOSPICE REGISTERED NURSE,44,29-1141,Registered Nurses,high,
+Executive Administrative Assistant,44,43-6011,Executive Secretaries and Executive Administrative Assistants,high,
+Senior Data Engineer,44,15-1243,Database Architects,medium,
+Pharmacy Technician,44,29-2052,Pharmacy Technicians,high,exact title match (singularized)
+Behavior Technician,44,31-1133,Psychiatric Aides,medium,
+Sales Director,43,11-2022,Sales Managers,high,
+Web Developer,43,15-1254,Web Developers,high,exact title match (singularized)
+Technical Project Manager,43,13-1082,Project Management Specialists,medium,
+Structural Engineer,43,17-2051,Civil Engineers,high,
+TEACHER-SCIENCE,42,25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",high,
+Superintendent,42,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,low,ambiguous: construction vs school superintendent
+Auto Detailer,42,53-7061,Cleaners of Vehicles and Equipment,high,
+System Engineer,42,15-1244,Network and Computer Systems Administrators,medium,IT systems sense; ambiguous vs engineering
+Task Associate,42,,,low,too generic; not mapped
+Accounts Receivable Specialist,42,43-3031,"Bookkeeping, Accounting, and Auditing Clerks",high,
+Marketing Intern,42,13-1161,Market Research Analysts and Marketing Specialists,medium,intern level
+Marketing Assistant,42,13-1161,Market Research Analysts and Marketing Specialists,high,
+Assistant Project Manager,41,13-1082,Project Management Specialists,medium,
+Plant Manager,41,11-3051,Industrial Production Managers,high,
+Project Coordinator,40,13-1082,Project Management Specialists,medium,
+Teller,40,43-3071,Tellers,high,exact title match (singularized)
+Laboratory Technician,40,29-2010,Clinical Laboratory Technologists and Technicians,high,
+Financial Controller,40,11-3031,Financial Managers,high,
+Associate Veterinarian,39,29-1131,Veterinarians,high,
+Senior Mechanical Engineer,39,17-2141,Mechanical Engineers,high,
+Branch Manager,39,11-9199,"Managers, All Other",medium,industry unspecified
+Litigation Associate,39,23-1011,Lawyers,high,
+Server,39,35-3031,Waiters and Waitresses,medium,restaurant context
+Director of Business Development,39,11-2022,Sales Managers,high,
+Civil Engineer,39,17-2051,Civil Engineers,high,exact title match (singularized)
+Medical Director,39,11-9111,Medical and Health Services Managers,high,
+Estimator,39,13-1051,Cost Estimators,high,
+LPN Licensed Practical Nurse,39,29-2061,Licensed Practical and Licensed Vocational Nurses,high,
+Design Engineer,39,17-2199,"Engineers, All Other",medium,discipline unspecified
+Buyer,38,13-1020,Buyers and Purchasing Agents,high,
+MANAGEMENT TRAINING - ENTRY LEVEL,38,,,low,too generic; not mapped
+Retail Sales Print & Marketing Associate,38,41-2031,Retail Salespersons,medium,
+Java Developer,38,15-1252,Software Developers,high,
+Operations Supervisor,38,11-9199,"Managers, All Other",medium,scope unspecified
+In-Store Shopper - Part Time Seasonal,38,41-2031,Retail Salespersons,medium,personal/shopper retail role
+"Customer Service Representative, Full or Part Time",38,43-4051,Customer Service Representatives,high,
+Technical Lead,38,15-1252,Software Developers,medium,usually software technical lead
+Litigation Paralegal,37,23-2011,Paralegals and Legal Assistants,high,
+Production Manager,37,11-3051,Industrial Production Managers,high,
+Senior Account Executive,37,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",medium,
+Senior Electrical Engineer,37,17-2071,Electrical Engineers,high,
+Med-Surg Registered Nurse,37,29-1141,Registered Nurses,high,
+Python Developer,37,15-1252,Software Developers,high,
+Relationship Banker,37,43-3071,Tellers,medium,bank branch role; exact function unclear
+Office Administrator,36,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",high,
+Maintenance Mechanic,36,49-9041,Industrial Machinery Mechanics,high,
+Marketing Specialist,36,13-1161,Market Research Analysts and Marketing Specialists,high,
+Construction Estimator,36,13-1051,Cost Estimators,high,
+Dental Hygienist,36,29-1292,Dental Hygienists,high,exact title match (singularized)
+Warehouse Part Time Overnight,36,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",medium,
+Retail Stocking Associate,36,53-7065,Stockers and Order Fillers,high,
+Case Manager,36,21-1099,"Community and Social Service Specialists, All Other",low,healthcare/social-service sense assumed
+Assembler,36,51-2090,Miscellaneous Assemblers and Fabricators,high,
+Human Resources Coordinator,36,13-1071,Human Resources Specialists,high,
+System Administrator,36,15-1244,Network and Computer Systems Administrators,high,
+Retail Sales – Part Time,36,41-2031,Retail Salespersons,high,
+Property Manager,35,11-9141,"Property, Real Estate, and Community Association Managers",high,
+Lead Sales Associate,35,41-2031,Retail Salespersons,medium,

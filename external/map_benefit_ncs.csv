@@ -1,0 +1,13 @@
+internal_benefit_type,ncs_benefit,notes
+401(k),retirement,401(k) adalah defined contribution; NCS 'retirement' mencakup defined benefit + defined contribution
+Pension plan,retirement,pension adalah defined benefit; tercakup kategori NCS 'retirement'
+Medical insurance,medical_care,padanan langsung
+Dental insurance,dental,padanan langsung
+Vision insurance,vision,padanan langsung
+Disability insurance,short_term_disability; long_term_disability,"NCS Tabel 5 USDL-24-1921 memuat short-term dan long-term disability; nilai short-term 45% (all workers, Mar 2024)"
+Paid maternity leave,paid_family_leave,definisi BLS: paid family leave mencakup maternity dan paternity
+Paid paternity leave,paid_family_leave,definisi BLS: paid family leave mencakup maternity dan paternity
+Child care support,,tidak ada kategori NCS untuk penitipan anak
+Commuter benefits,,tidak ada kategori NCS untuk tunjangan komuter
+Student loan assistance,,tidak ada kategori NCS untuk bantuan pinjaman mahasiswa
+Tuition assistance,,tidak ada kategori NCS untuk bantuan biaya pendidikan
